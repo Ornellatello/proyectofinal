@@ -1,8 +1,124 @@
 body {
-    padding: 0;
-    margin: 0;
+    background-color: #f4f3ee;
 }
-p {
-    color: blue;
-    background-color: burlywood;
+
+html {
+    scroll-behavior: smooth;
+  }
+
+  .navbar {
+    background-color: #B5838D;
+  }
+
+  .nav-link {
+    font-family: "cabin";
+    color: white;
+  }
+
+  .navbar-brand {
+    font-family: "Montserrat", bold;
+    font-size: 29px;
+  }
+
+  
+  .underline {
+    text-decoration: underline;
+  }
+ 
+
+
+.titulo {
+    text-align: center;
+    font-family: "cabin";
+    font-weight: bold;
+    padding-top: 130px;
+
+}
+
+.subtitulo {
+    text-align: center;
+    font-family: "cabin";
+    margin-bottom: 50px;
+    font-weight: 400;
+}
+
+.container {
+    font-family: "cabin";
+    color: #373A3C;
+}
+
+.card-title{
+    font-weight: 700;
+
+}
+
+.titu {
+    text-align: center;
+    font-family: "cabin";
+    font-weight: bold;
+}
+
+.btn {
+    margin-bottom: 170px;
+
+}
+
+.listanone {
+    list-style:none
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.favicon {
+    height: 4rem
+}
+
+.bg-color {
+    background-color: #B5838D;
+    margin: auto; 
+    height: 4rem;
+    display: block; 
+    text-align: center;
+}
+
+.aboutme {
+    
+    width: 200px;
+	padding: 25px 0;
+	margin: 0;
+}
+
+
+.fab {
+    color: rgba(255, 255, 255, 0.55);
+    height: 2rem
+}
+
+.fas {
+    color: rgba(255, 255, 255, 0.55);
+    height: 3rem;
+}
+.far {
+    color: rgba(255, 255, 255, 0.55);
+    height: 3rem;
+}
+
+h6 {
+    color: rgba(255, 255, 255, 0.18);
+}
+
+.seccioncontacto {
+    background-color: #B5838D;
+    margin-bottom: 20px;
+}
+
+footer {
+    background: #373A3C;
+    padding: 2rem 0;
+    font-family: "Montserrat";
+    font-size: 29px;
+    text-align: center;
+    
 }
